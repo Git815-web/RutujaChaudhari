@@ -78,7 +78,7 @@ In pursuit of knowledge and understanding of which products, regions, categories
 
 ### Power BI Dashboard 📈
 
-[View Interactive Power BI Dashboard](#) VisualizedReport_SuperStore_data file
+[View Interactive Power BI Dashboard](#) VisualizedReport_SuperStore_data.pbix
 
 ### Contact Information 📬
 
