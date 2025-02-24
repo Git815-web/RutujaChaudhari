@@ -1,7 +1,5 @@
 # RutujaChaudhari
 
-# RutujaChaudhari
-
 ## Superstore Sales Analysis
 
 ![Screenshot 2025-02-24 215748](https://github.com/user-attachments/assets/5301f377-a47f-4a6b-ba60-0baeae3e2fc8)
@@ -80,11 +78,11 @@ In pursuit of knowledge and understanding of which products, regions, categories
 
 ### Power BI Dashboard 📈
 
-[View Interactive Power BI Dashboard](#) (Insert link if available)
+[View Interactive Power BI Dashboard](#) VisualizedReport_SuperStore_data file
 
 ### Contact Information 📬
 
 - **LinkedIn:** [linkedin.com/in/rutuja-chaudhari-6aa26a1ba](#)
-- **GitHub:** [Your GitHub Profile](#)
+- **GitHub:** [https://github.com/Git815-web/RutujaChaudhari](#)
 - **Email:** rutuja562001@gmail.com
 
