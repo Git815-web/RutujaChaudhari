@@ -19,9 +19,10 @@ In pursue of knowledge and understanding of which products, regions, categories 
   
 ### Languages and Tools 👨‍💻
 
-```Jupyter Notebook
-   SQL
-   Power BI
+```
+Jupyter Notebook
+SQL
+Power BI
 ```
 
 |  Languages    | Usage          |
